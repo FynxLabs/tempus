@@ -1,6 +1,5 @@
-# Tempus
-
-Ephemeral Environment Manager for AWS
+# TRACE
+Transient Cloud Engine - Ephemeral Environments Builder/Manager
 
 *Work in Progress*
 
@@ -8,7 +7,7 @@ Ephemeral Environment Manager for AWS
 
 Current in the Design and Initial Development Phase
 
-### Tempus Flow
+### Builder Flow
 Initial Idea of Function
 
-![Tempus Flow](https://raw.githubusercontent.com/fynxlabs/tempus/master/diagrams/tempus_flow.png)
+![Builder Flow](https://raw.githubusercontent.com/fynxlabs/tempus/master/diagrams/builder_flow.png)
